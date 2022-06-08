@@ -1,4 +1,4 @@
-module github.com/aiocat/aiocat
+module aiocat
 
 go 1.17
 
