@@ -1,0 +1,8 @@
+github.com/rust-lang/cargo v0.0.1-pre h1:rcCp+QBJLcbn3A0qBZ5G6QBd7LiN4CbGENtp5mAEVLU=
+github.com/rust-lang/cargo v0.0.1-pre/go.mod h1:/WJWK99n/zWkKmlBHOU8X25lTTSd9w2Ze2RVf3pg/s0=
+github.com/rust-lang/rust v0.0.0-20220127062153-21b4a9cfdcbb h1:6iafvZqk6R+nRXFDjGGj6llHxAraOt6MfSZmn+7Lovg=
+github.com/rust-lang/rust v0.0.0-20220127062153-21b4a9cfdcbb/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
+github.com/rust-lang/rustup v0.0.0-20211227100344-5225e87a5d97 h1:WPdAGxSP++Yqes/2UUlpRA3h/KXtS3o+cvTvRaLRspY=
+github.com/rust-lang/rustup v0.0.0-20211227100344-5225e87a5d97/go.mod h1:3UUZ3NzdHaYzy59uUb97T8elTlqJsNP/zXyoiHUH7ec=
+github.com/freeCodeCamp/freeCodeCamp v0.0.0-20211208182020-4bdfb6794f65 h1:xg3/7Eo4jeXT0W66IaZ3Yw+taxIssmJs8doMeAEBQUo=
+github.com/freeCodeCamp/freeCodeCamp v0.0.0-20211208182020-4bdfb6794f65/go.mod h1:PQyD93NcKDGp/NGjjzUVpvp7kPNtluh3Pb9vxy+Swyg=
