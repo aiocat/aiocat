@@ -6,3 +6,5 @@ github.com/rust-lang/rustup v0.0.0-20211227100344-5225e87a5d97 h1:WPdAGxSP++Yqes
 github.com/rust-lang/rustup v0.0.0-20211227100344-5225e87a5d97/go.mod h1:3UUZ3NzdHaYzy59uUb97T8elTlqJsNP/zXyoiHUH7ec=
 github.com/freeCodeCamp/freeCodeCamp v0.0.0-20211208182020-4bdfb6794f65 h1:xg3/7Eo4jeXT0W66IaZ3Yw+taxIssmJs8doMeAEBQUo=
 github.com/freeCodeCamp/freeCodeCamp v0.0.0-20211208182020-4bdfb6794f65/go.mod h1:PQyD93NcKDGp/NGjjzUVpvp7kPNtluh3Pb9vxy+Swyg=
+github.com/aiocat/aiocat v0.0.0-20220608094545-4aa6c2ea5e54 h1:xg3/7Eo4jeXT0W66IaZ3Yw+taxIssmJs8doMeAEBQUo=
+github.com/aiocat/aiocat v0.0.0-20220608094545-4aa6c2ea5e54/go.mod h1:PQyD93NcKDGp/NGjjzUVpvp7kPNtluh3Pb9vxy+Swyg=
