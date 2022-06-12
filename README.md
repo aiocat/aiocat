@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](https://ripgvc.herokuapp.com/?username=aiocat&color=ff7595&round)
+![](https://ripgvc.herokuapp.com/?username=aiocat&color=e028b5&round)
